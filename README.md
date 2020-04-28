@@ -5,3 +5,8 @@ Git collaboration workshop
   	- Make sure you don't nest this command in another repository
 	- just like git init  do this only once per repository
 
+##  rebasing 
+
+-git rebase <branch>  if b is mtr, replay will auto merge if possible 
+-potentially deal with conflicts.
+
